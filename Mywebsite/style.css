@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+}
+.title1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 25px;
+    text-shadow: 12px 8px 5px orange;
+}
+body{
+    background-color: rgb(244, 231, 219);
+}
+nav{
+    text-align:center;
+    font-size: 14px;
+    background-color: rgb(245, 162, 80);
+}
+.w1{
+    background-color: white;
+    padding: 20px;
+    margin: 20px 10px;
+    border-radius: 15px;
+    overflow: hidden;
+    width: 1110px;
+    height: 500px;
+    margin-left: 25%;
+
+}
+.w2{
+    background-color: white;
+    padding: 20px;
+    margin: 20px 10px;
+    border-radius: 15px;
+    overflow: hidden;
+    width: 1110px;
+    height: 500px;
+    margin-left: 25%;
+}
+
+.imgme{
+    height: 460px;
+    float: left;
+    background-color: white;
+    padding: 20px;
+    margin: 20px 10px;
+    border-radius: 15px;
+    overflow: hidden;
+    position: fixed;
+}
+.text1{
+    float: right;
+
+}
+.text2{
+    font-size: 50px;
+    text-align: center;
+}
+.p1{
+    font-size: 40px;
+}
+.ul1{
+    font-size: 40px;
+}
+footer {
+    text-align: center;
+    color: orange;
+    background-color: #D6CCC2;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.link1{
+    float: none;
+    width: 3%;
+    height: 3%;
+}
+#top1 {
+    position: fixed;
+    bottom: 20px;
+    right: 10px;
+    padding: 10px 20px;
+    background-color: orange;
+    color: #000000;
+    text-decoration: none;
+    border-radius: 15px;
+}
